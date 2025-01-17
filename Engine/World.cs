@@ -203,7 +203,7 @@ namespace Engine
             return null;
         }
 
-        public static Location LocationbyID(int id)
+        public static Location LocationByID(int id)
         {
             foreach (Location location in Locations)
             {
